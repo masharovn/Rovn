@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+
+<head>
+<title>Real-Estate MII Moscow</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body> 
+<h4> Our site proposes a perspective on bussiness or vactional domeins that have the soul porpouse of keeping the dinamics of the real estate.
+The publishing editorial of the site is previewing the Real Market section, focusing on the opportunities of emerging market trends and transformations. Both the real estate market and the business areas connected to it are the subject of analyzes and forecasts.
+Cultural dimensions and markets are dedicated to the Real Heritage - as a tribute to the architectural treasure distinguished both from the heritage of the past and from the contemporary projects that ensure its continuity - and the real style, centered on the creativity and innovations that float the interior spaces.
+The most accessible and popular sector of the real estate market, the residential segment is debated under Real Property. Real estate investments cover all segments of the real estate market to serve business projects, highlighting the potential for profitability that is different from the selection of offices, commercial properties, streets, warehouses and industrial premises.
+
+
+
+
+</body>
+</html> 
