@@ -1,9 +1,9 @@
-
-
-
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.anunturi {
+	
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+	
+	
 }
